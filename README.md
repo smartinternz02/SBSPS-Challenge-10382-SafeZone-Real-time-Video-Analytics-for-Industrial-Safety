@@ -12,4 +12,7 @@ and fostering more secure work surroundings inside Craker Industries. The versio
 
 HERE Fire.pt --This is a pre-trained model for Fire detection using YOLOV8 
      Smoke.pt--This is a pre-trained model for Annomaly detection using YOLOV5
+     Trainig.ipynb--This ipynb is used to train the model Fire.pt 
+     Cigratte_Detector--This ipynb is used to train the mode Smoke.pt
+     
      
